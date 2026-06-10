@@ -131,12 +131,6 @@ Buka browser dan akses `[http://localhost:5173](https://project-gis-five.vercel.
 
 ---
 
-## 📁 Web UI
-
-```
-<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/64afebf5-a152-4496-8b52-456c8cf3458a" />
-
-```
 
 ---
 
